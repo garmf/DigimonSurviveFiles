@@ -1,22 +1,23 @@
-# DigimonSurviveSavefile
+# Saveslot details
 ```
 slot 01-8 // slot 8 has balanced karma that can be useful for experimentation
+
 slot 09 --- // empty, separator
 
-slot 10 9h
-slot 11 10h
-slot 12 11h
-slot 13 12h
+slot 10 9H
+slot 11 10H
+slot 12 11H
+slot 13 12H
 
-slot 14 9m
-slot 15 10m
-slot 16 11m
-slot 17 12m
+slot 14 9M
+slot 15 10M
+slot 16 11M
+slot 17 12M
 
-slot 18 9w
-slot 19 10w
-slot 20 11w
-slot 21 12w
+slot 18 9W
+slot 19 10W
+slot 20 11W
+slot 21 12W
 
 slot 22 --- // empty, separator
 
@@ -45,3 +46,11 @@ slot 48 NG path split
 slot 49 NG+ path split
 slot 50 cleared save
 ```
+# How do I use this?
+1. Make sure to enable "View Hidden Items" in your folder settings to find the AppData folder.
+2. Find your save folder
+    * On PC/Windows, it should be in "...\Users\Your Profile\Appdata\LocalLow\Bandai Namco Entertainment Inc\<your_save_folder_number>"
+3. Paste the contents of the zip file into your save folder
+
+# Related Links
+[My GameFAQs Guide](https://gamefaqs.gamespot.com/pc/244573-digimon-survive/faqs/81000)
